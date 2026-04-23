@@ -195,7 +195,7 @@ Capstone-CADD-Project/
 ## 📄 Detailed Report
 A complete scientific report including methodology, results, and discussion is available:
 
-CapstoneProject_report.pdf
+CapstoneProject_report.pdf :https://github.com/rubabfawad805-svg/Capstone_Project/blob/main/CapstoneProject_report.pdf
 
 ---
 
