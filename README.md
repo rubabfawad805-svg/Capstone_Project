@@ -5,7 +5,8 @@ This project is my first step toward combining chemistry + computation + AI in d
 ##  Overview
 This project presents a complete in silico drug discovery workflow to evaluate the binding affinity and pharmacokinetic properties of selected ligands against the target protein **7SFB**. The study integrates drug-likeness screening, ADMET prediction, binding site identification, and molecular docking.
 
-![Uploading ChatGPT Image Apr 23, 2026, 11_56_07 PM.png…]()
+<img width="1536" height="1024" alt="overview" src="https://github.com/user-attachments/assets/cab4ef3d-92ac-45fd-a2d4-50e0b651f7d7" />
+
 
 ---
 
