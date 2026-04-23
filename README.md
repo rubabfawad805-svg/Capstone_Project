@@ -70,12 +70,12 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 <img width="906" height="476" alt="image" src="https://github.com/user-attachments/assets/c7902bbd-f45e-42ee-851c-2b2e75484d7f" />
 <img width="471" height="667" alt="image" src="https://github.com/user-attachments/assets/869b1348-1f66-40b6-b4ed-ecd5ec45b806" />
 
-*Metformin showing strong interaction within the active site of 7SFB.*
+*Metformin shows a strong interaction within the active site of 7SFB.*
 
 ---
 
 ### 🔹 Binding Site Identification
-<img width="638" height="717" alt="image" src="https://github.com/user-attachments/assets/ec67b150-7f32-4dec-9ad7-9245273d1ca7" />
+
 <img width="624" height="702" alt="image" src="https://github.com/user-attachments/assets/ebe98ce2-28ce-475e-b3e7-1be5207ece92" />
 
 *Predicted active binding pocket of the protein.*
@@ -92,7 +92,16 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 ### 🔹Amino acid Residues in Binding Site 
 <img width="1103" height="620" alt="image" src="https://github.com/user-attachments/assets/e334c799-7adf-426c-94c4-7990852aa361" />
 
+*sequence of aminoacids detei=rmined by DoGSiteScorer*
 ---
+
+### 🔹Alphafold3 AI prediction of the protein, and comparison with the cleaned protein
+<img width="1236" height="695" alt="image" src="https://github.com/user-attachments/assets/65f8b9f3-5949-4e1e-ad87-8d5c079b3c33" />
+
+*AI predicted protein structure aligned on the cleaned protein*
+
+  ------
+
 
 ## 🧠 Tools & Technologies
 - PyMOL  
