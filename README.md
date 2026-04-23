@@ -122,7 +122,7 @@ The objective is to identify **potential drug candidates based on both binding a
 ### 🔹Amino acid Residues in Binding Site 
 <img width="1103" height="620" alt="image" src="https://github.com/user-attachments/assets/e334c799-7adf-426c-94c4-7990852aa361" />
 
-*sequence of aminoacids detei=rmined by DoGSiteScorer*
+* sequence of aminoacids deteirmined by DoGSiteScorer*
 ---
 
 ### 🔹Alphafold3 AI prediction of the protein, and comparison with the cleaned protein
