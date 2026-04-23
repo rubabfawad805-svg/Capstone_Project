@@ -1,0 +1,14 @@
+Ligand,Target,Binding Energy,Unbound Energy,Date Created,Info
+323_uff_E=92.32,cleaned_5QCU,-6.1,,2026.04.17 12:23:23,Vina
+9651_uff_E=504.03,cleaned_5QCU,-8.2,,2026.04.17 12:23:48,Vina
+637566_uff_E=110.10,cleaned_5QCU,-5.9,,2026.04.17 12:24:06,Vina
+1983_mmff94_E=-12.22,7SFB_cleaned,-4.8,,2026.04.23 12:57:47,Vina
+2153_mmff94_E=-125.07,7SFB_cleaned,-5.6,,2026.04.23 12:57:51,Vina
+2244_mmff94_E=20.42,7SFB_cleaned,-5.3,,2026.04.23 12:57:58,Vina
+2519_mmff94_E=-122.24,7SFB_cleaned,-5.5,,2026.04.23 12:58:04,Vina
+3033_mmff94_E=57.55,7SFB_cleaned,-6.5,,2026.04.23 12:58:21,Vina
+3672_mmff94_E=25.84,7SFB_cleaned,-6.0,,2026.04.23 12:58:34,Vina
+4091_mmff94_E=-214.12,7SFB_cleaned,-4.7,,2026.04.23 12:58:38,Vina
+68911_mmff94_E=66.68,7SFB_cleaned,-6.7,,2026.04.23 12:58:46,Vina
+156391_mmff94_E=36.30,7SFB_cleaned,-6.3,,2026.04.23 12:58:57,Vina
+6437380_mmff94_E=108.95,7SFB_cleaned,-6.1,,2026.04.23 13:00:20,Vina
