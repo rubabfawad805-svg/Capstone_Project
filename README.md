@@ -102,6 +102,34 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 
   ------
 
+### 🔹Results
+
+
+### Summary of Ligand Screening and Final Approval Status
+
+| Compound Name | PubChem CID | Drug-likeliness (Lipinski) | Binding Energy (kcal/mol) | Safety & ADMET Balance | Final Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Diclofenac** | 3033 | Yes; 0 violation | -6.5 | High (Most balanced profile) | **Approved** |
+| **Metformin** | 4091 | Yes; 0 violation | -6.7 | High (Strongest binding affinity) | **Approved** |
+| **Acetaminophen** | 1983 | Yes; 0 violation | -5.3 | High (Very safe long-term use) | **Approved** |
+| **Caffeine** | 2519 | Yes; 0 violation | -6.0 | Moderate (Excellent BBB access) | **Approved** |
+| **Naproxen** | 156391 | Yes; 0 violation | -5.5 | Moderate (Stable profile) | **Approved** |
+| **Ibuprofen** | 3672 | Yes; 0 violation | -5.6 | Moderate (High skin sensitization) | **Approved** |
+| **Artemether** | 68911 | Yes; 0 violation | -6.3 | Low (Dangerously high skin risk) | **Not Approved** |
+| **Lumefantrine** | 6437380 | No; 2 violations | -6.1 | Low (High skin risk/Poor absorption) | **Not Approved** |
+| **Aspirin** | 2244 | Yes; 0 violation | -4.8 | Low (High eye corrosion risk) | **Not Approved** |
+| **Theophylline** | 2153 | Yes; 0 violation | -4.7 | Low (High drug interaction risk) | **Not Approved** |
+
+***
+
+-----
+
+
+#### Selection Criteria Notes:
+* **Approved**: Compounds that passed the Lipinski Rule of Five and showed a favorable balance between binding affinity and ADMET safety profiles.
+* **Not Approved**: Compounds excluded due to either multiple Lipinski violations (Lumefantrine) or critical safety concerns, such as high toxicity markers or significant drug-drug interaction risks.
+
+---------
 
 ## 🧠 Tools & Technologies
 - RCSB PDB
@@ -118,3 +146,5 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 ---
 
 ## 📁 Project Structure
+
+
