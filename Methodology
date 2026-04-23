@@ -1,0 +1,27 @@
+# Methodology
+
+## 1. Protein Preparation
+- Protein (7SFB) downloaded from RCSB PDB
+- Water molecules removed
+- Hydrogens added using PyMOL
+
+## 2. Ligand Preparation
+- Ligands downloaded from PubChem
+- Converted to the appropriate format using Open Babel
+
+## 3. Drug-Likeness
+- Evaluated using SwissADME
+- Lipinski Rule of Five applied
+
+## 4. ADMET Prediction
+- Performed using ADMETlab
+
+## 5. Binding Site Prediction
+- Active site identified using CASTp / PrankWeb
+
+## 6. Molecular Docking
+- Docking performed using PyRx / AutoDock
+- Binding energies recorded and analyzed
+
+## 7. Visualization
+- Interactions visualized using PyMOL
