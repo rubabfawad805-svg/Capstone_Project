@@ -195,7 +195,7 @@ Capstone-CADD-Project/
 ## 📄 Detailed Report
 A complete scientific report including methodology, results, and discussion is available:
 
-in \capstone_project_report.pdf
+CapstoneProject_report.pdf
 
 ---
 
