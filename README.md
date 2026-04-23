@@ -175,6 +175,40 @@ The objective is to identify **potential drug candidates based on both binding a
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
+
+Capstone-CADD-Project/
+├── README.md
+├── report/
+│ └── report.pdf
+├── methods/
+│ └── methodology.md
+├── data/
+├── results/
+├── figures/
+
+---
+
+
+---
+
+## 📄 Detailed Report
+A complete scientific report including methodology, results, and discussion is available:
+
+in \capstone_project_report.pdf
+
+---
+
+## 🔬 Conclusion
+This study demonstrates that **integrating docking with pharmacokinetic and drug-likeness analysis provides a more reliable framework for candidate selection**.
+
+Among all compounds, **Metformin stands out as the most promising candidate**, balancing strong binding affinity with favorable drug-like properties.
+
+---
+
+## 📌 Author
+**Rubab Fawad**  
+BS Chemistry at QAU | Computational Drug Discovery | CADD Enthusiast
+
 
 
