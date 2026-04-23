@@ -104,10 +104,14 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 
 
 ## 🧠 Tools & Technologies
-- PyMOL  
+- RCSB PDB
+- PubCHEM
+- PyMOL
+- DoGSiteScorer  
 - PyRx / AutoDock Vina  
 - SwissADME  
-- ADMETlab  
+- ADMETlab3.0
+- Discovery Studio  
 - AlphaFold  
 - Open Babel  
 
