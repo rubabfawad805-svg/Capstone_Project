@@ -5,16 +5,33 @@ This project is my first step toward combining chemistry + computation + AI in d
 ## 🏆 Highlight
 **Metformin demonstrated the strongest binding affinity (−6.7 kcal/mol), emerging as the most promising candidate among all evaluated ligands.**
 
-##  Overview
-This project presents a complete in silico drug discovery workflow to evaluate the binding affinity and pharmacokinetic properties of selected ligands against the target protein **7SFB**. The study integrates drug-likeness screening, ADMET prediction, binding site identification, and molecular docking.
+----- 
+
+## 📌 Project Overview
+This project implements a **complete computational drug discovery pipeline** to evaluate ligand–protein interactions against the target protein **7SFB**.
+
+The workflow integrates:
+- Drug-likeness screening  
+- ADMET profiling  
+- Binding site identification  
+- Molecular docking  
+- Structural validation  
+
+The objective is to identify **potential drug candidates based on both binding affinity and pharmacokinetic suitability**, rather than relying on docking alone.
+
 
 <img width="1536" height="1024" alt="overview" src="https://github.com/user-attachments/assets/cab4ef3d-92ac-45fd-a2d4-50e0b651f7d7" />
 
 
 ---
 
-##  Objective
-To identify potential drug candidates by analyzing ligand–protein interactions and evaluating pharmacokinetic properties using computational tools.
+
+## 🎯 Objectives
+- Evaluate ligand binding affinity using molecular docking  
+- Assess drug-likeness using Lipinski’s Rule of Five  
+- Predict pharmacokinetic properties (ADMET)  
+- Identify the most promising compound for further study  
+
 
 ---
 
@@ -32,44 +49,51 @@ To identify potential drug candidates by analyzing ligand–protein interactions
 
 ---
 
-## ⚙️ Methodology (Workflow)
 
-1. Protein Preparation (PyMOL)  
-2. Ligand Preparation (PubChem + Open Babel)  
-3. Drug-Likeness Screening (Lipinski Rule via SwissADME)  
-4. ADMET Prediction (ADMETlab)  
-5. Binding Site Prediction  
-6. Molecular Docking (PyRx / AutoDock Vina)  
-7. Visualization of interactions (PyMOL)  
-8. Structure Prediction & Comparison (AlphaFold)
+## ⚙️ Computational Workflow
+
+| Step | Description | Tools |
+|------|------------|------|
+| Protein Preparation | Structure cleaning, hydrogen addition | PyMOL |
+| Ligand Preparation | Format conversion & optimization | PubChem, Open Babel |
+| Drug-Likeness | Lipinski Rule evaluation | SwissADME |
+| ADMET Prediction | Pharmacokinetic profiling | ADMETlab |
+| Binding Site | Active pocket identification | CASTp / PrankWeb |
+| Docking | Binding affinity calculation | PyRx (AutoDock Vina) |
+| Visualization | Interaction analysis | PyMOL |
+| Structure Validation | Predicted vs experimental comparison | AlphaFold |
 
 ---
 
+
+---
 ## 📊 Docking Results
 
-| Ligand | Binding Energy (kcal/mol) |
-|--------|--------------------------|
-| 🟢 **Metformin** | **-6.7** |
-| Diclofenac | -6.5 |
-| Artemether | -6.3 |
-| Lumefantrine | -6.1 |
-| Caffeine | -6.0 |
-| Ibuprofen | -5.6 |
-| Naproxen | -5.5 |
-| Acetaminophen | -5.3 |
-| Aspirin | -4.8 |
-| Theophylline | -4.7 |
+| Rank | Ligand | Binding Energy (kcal/mol) |
+|------|--------|--------------------------|
+| 🥇 | **Metformin** | **-6.7** |
+| 🥈 | Diclofenac | -6.5 |
+| 🥉 | Artemether | -6.3 |
+| 4 | Lumefantrine | -6.1 |
+| 5 | Caffeine | -6.0 |
+| 6 | Ibuprofen | -5.6 |
+| 7 | Naproxen | -5.5 |
+| 8 | Acetaminophen | -5.3 |
+| 9 | Aspirin | -4.8 |
+| 10 | Theophylline | -4.7 |
+
 
 ---
 
-## 🏆 Key Findings
-- **Metformin** showed the strongest binding affinity (**−6.7 kcal/mol**)  
-- Diclofenac and Artemether demonstrated strong interactions  
-- Aspirin and Theophylline showed weaker binding  
-- **9 out of 10 compounds satisfied Lipinski’s Rule of Five**  
-- Lumefantrine showed 2 violations (potential bioavailability issues)
+## 🧠 Key Insights
 
----
+- **Metformin achieved the strongest interaction**, likely due to efficient hydrogen bonding within the active site  
+- Diclofenac and Artemether showed **stable binding via hydrophobic and polar interactions**  
+- Weak binders (Aspirin, Theophylline) indicate limited interaction capability  
+- **9/10 compounds satisfied Lipinski’s Rule**, indicating good oral drug potential  
+- Lumefantrine showed strong binding but **failed drug-likeness criteria**, highlighting the importance of multi-step evaluation  
+
+-----
 
 
 ### 🔹 Docking Interaction (Best Ligand)
