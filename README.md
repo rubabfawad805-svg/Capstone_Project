@@ -60,24 +60,6 @@ The objective is to identify **potential drug candidates based on both binding a
 - Artemether  
 - Lumefantrine  
 
----
-
-
-## ⚙️ Computational Workflow
-
-| Step | Description | Tools |
-|------|------------|------|
-| Protein Preparation | Structure cleaning, hydrogen addition | PyMOL |
-| Ligand Preparation | Format conversion & optimization | PubChem, Open Babel |
-| Drug-Likeness | Lipinski Rule evaluation | SwissADME |
-| ADMET Prediction | Pharmacokinetic profiling | ADMETlab |
-| Binding Site | Active pocket identification | CASTp / PrankWeb |
-| Docking | Binding affinity calculation | PyRx (AutoDock Vina) |
-| Visualization | Interaction analysis | PyMOL |
-| Structure Validation | Predicted vs experimental comparison | AlphaFold |
-
----
-
 
 ---
 
@@ -113,7 +95,7 @@ The objective is to identify **potential drug candidates based on both binding a
 
 <img width="471" height="667" alt="image" src="https://github.com/user-attachments/assets/869b1348-1f66-40b6-b4ed-ecd5ec45b806" />
 
-*Metformin shows a strong interaction within the active site of 7SFB.Figure shows the bonding of the ligand with the amino acids, showing the interactions of Metformin to the amino acids ASN 151 THR 111 ASP 295 GLN 110 of protein.*
+*Metformin shows a strong interaction within the active site of 7SFB.Figure shows the bonding of the ligand with the amino acids, showing the interactions of Metformin to the amino acids ASN151, THR111, ASP295, GLN110 of protein.*
 
 <img width="906" height="476" alt="image" src="https://github.com/user-attachments/assets/83313845-5807-4b07-bc89-b1886560df29" />
 
@@ -173,19 +155,6 @@ The objective is to identify **potential drug candidates based on both binding a
 
 ---------
 
-## 🧠 Tools & Technologies
-- RCSB PDB
-- PubCHEM
-- PyMOL
-- DoGSiteScorer  
-- PyRx / AutoDock Vina  
-- SwissADME  
-- ADMETlab3.0
-- Discovery Studio  
-- AlphaFold  
-- Open Babel  
-
----
 
 ## 📁 Repository Structure
 
@@ -200,12 +169,41 @@ Capstone-CADD-Project/
 ├── figures/
 
 
-
-
 ---
 
 📄 Full Report: report.pdf
 ---
+
+
+---
+
+## 🧠 Tools & Technologies
+- RCSB PDB
+- PubCHEM
+- PyMOL
+- DoGSiteScorer  
+- PyRx / AutoDock Vina / Open Babel 
+- SwissADME  
+- ADMETlab3.0
+- Discovery Studio  
+- AlphaFold  
+   
+---
+## ⚙️ Workflow
+
+| Step | Description | Tools |
+|------|------------|------|
+| Protein Preparation | Structure cleaning, hydrogen addition | PyMOL |
+| Ligand Preparation | Format conversion & optimization | PubChem, Open Babel |
+| Drug-Likeness | Lipinski Rule evaluation | SwissADME |
+| ADMET Prediction | Pharmacokinetic profiling | ADMETlab |
+| Binding Site | Active pocket identification | CASTp / PrankWeb |
+| Docking | Binding affinity calculation | PyRx (AutoDock Vina) |
+| Visualization | Interaction analysis | PyMOL |
+| Structure Validation | Predicted vs experimental comparison | AlphaFold |
+
+-----
+
 
 ## Conclusion
 
