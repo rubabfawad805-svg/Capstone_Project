@@ -3,8 +3,10 @@ This project is my first step toward combining chemistry + computation + AI in d
 # 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
 
 
-## 🏆 Key Result
-**Metformin showed the highest binding affinity (-6.7 kcal/mol), supported by strong hydrogen bonding with key active site residues.**
+
+## 🏆 Key Finding
+**Metformin exhibited the highest binding affinity (-6.7 kcal/mol), driven by strong hydrogen bonding with active site residues.**
+
 ## 🔬Metformin Docking
   
 <p align="center">
