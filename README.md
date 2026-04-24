@@ -38,7 +38,7 @@ The workflow integrates:
 The objective is to identify **potential drug candidates based on both binding affinity and pharmacokinetic suitability**, rather than relying on docking alone.
 
 
-<img width="1536" height="1024" alt="overview" src="https://github.com/user-attachments/assets/cab4ef3d-92ac-45fd-a2d4-50e0b651f7d7" />
+<img width="1149" height="1369" alt="ChatGPT Image Apr 24, 2026, 03_51_33 PM" src="https://github.com/user-attachments/assets/835ba23b-a55d-4281-b234-979aa82c11b7" />
 
 
 ---
