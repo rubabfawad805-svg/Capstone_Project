@@ -3,7 +3,7 @@ This project is my first step toward combining chemistry, computation, and AI in
 
 ---
 # 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
-Protein 7SFB, also known as Main Protease, is an essential constructive part of the COVID-19 virus without which the virus is rendered replication-incompetent. This protein is the master key to the virus's survival.
+Protein 7SFB, also known as Main Protease, is an essential constructive part of the COVID-19 virus without which the virus is rendered replication-incompetent. This protein is the master key to the virus's survival. The selection of 7SFB is a strategic choice because it represents the Main Protease (Mpro/3CLpro) of the SARS-CoV-2 virus. It is a proven, high-impact target where computational modeling can yield fast, life-saving results without the immediate need for a high-containment wet lab.
 
 ## 🏆 Key Finding
 **Metformin exhibited the highest binding affinity (-6.7 kcal/mol), driven by strong hydrogen bonding with active site residues.**
