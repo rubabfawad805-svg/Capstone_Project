@@ -5,7 +5,7 @@ This project is my first step toward combining chemistry + computation + AI in d
 
 ## 🏆 Key Result
 **Metformin showed the highest binding affinity (-6.7 kcal/mol), supported by strong hydrogen bonding with key active site residues.**
-## 🔬 Key Interaction
+## 🔬Metformin Docking
   
 <p align="center">
    <img width="1536" height="1024" alt="metformin2" src="https://github.com/user-attachments/assets/bcae0a8a-fbb3-4c9f-b4a5-1c4c7f49c90a" />
