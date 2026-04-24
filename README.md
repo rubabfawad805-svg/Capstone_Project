@@ -127,14 +127,7 @@ The objective is to identify **potential drug candidates based on both binding a
 
 ---
 
-### 🔹Amino acid Residues in Binding Site 
-<img width="1103" height="620" alt="image" src="https://github.com/user-attachments/assets/e334c799-7adf-426c-94c4-7990852aa361" />
-
-* sequence of aminoacids deteirmined by DoGSiteScorer*
----
-
 ### 🔹Alphafold3 AI prediction of the protein, and comparison with the cleaned protein
-<img width="1236" height="695" alt="image" src="https://github.com/user-attachments/assets/65f8b9f3-5949-4e1e-ad87-8d5c079b3c33" />
 
 *AI predicted protein structure aligned on the cleaned protein*
 
@@ -202,8 +195,7 @@ Capstone-CADD-Project/
 
 ## 📄 Detailed Report
 A complete scientific report including methodology, results, and discussion is available:
-
-CapstoneProject_report.pdf :https://github.com/rubabfawad805-svg/Capstone_Project/blob/main/CapstoneProject_report.pdf
+report.pdf
 
 ---
 
