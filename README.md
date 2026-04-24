@@ -32,11 +32,7 @@ These interactions explain the superior docking score observed for Metformin.
 This project aims to implement a **complete computational drug discovery pipeline** to evaluate ligand–protein interactions against the target protein **7SFB**.
 
 The workflow integrates:
-- Drug-likeness screening  
-- ADMET profiling  
-- Binding site identification  
-- Molecular docking  
-- Structural validation  
+Ligand Selection → Druglikeness Screening → Protein Preparation → Docking → ADMET → AI Structure Validation
 
 The objective is to identify **potential drug candidates based on both binding affinity and pharmacokinetic suitability**, rather than relying on docking alone.
 
@@ -199,6 +195,7 @@ Capstone-CADD-Project/
 ---
 ## ⚙️ Workflow
 
+Ligand Selection → Druglikeness Screening → Protein Preparation → Docking → ADMET → AI Structure Validation
 | Step | Description | Tools |
 |------|------------|------|
 | Protein Preparation | Structure cleaning, hydrogen addition | PyMOL |
