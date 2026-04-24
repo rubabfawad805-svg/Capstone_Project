@@ -75,7 +75,7 @@ The objective is to identify **potential drug candidates based on both binding a
 
 | Ligand | Binding Energy (kcal/mol) |
 |--------|--------------------------|
-| 🟢 Metformin | -6.7 |
+| 🟢 **Metformin** | **-6.7** |
 | Diclofenac | -6.5 |
 | Artemether | -6.3 |
 | Lumefantrine | -6.1 |
