@@ -104,10 +104,12 @@ The objective is to identify **potential drug candidates based on both binding a
 
 
 ### 🔹 Docking Interaction (Best Ligand)
-<img width="906" height="476" alt="image" src="https://github.com/user-attachments/assets/c7902bbd-f45e-42ee-851c-2b2e75484d7f" />
+
 <img width="471" height="667" alt="image" src="https://github.com/user-attachments/assets/869b1348-1f66-40b6-b4ed-ecd5ec45b806" />
 
-*Metformin shows a strong interaction within the active site of 7SFB.*
+*Metformin shows a strong interaction within the active site of 7SFB.Figure shows the bonding of the ligand with the amino acids, showing the interactions of Metformin to the amino acids ASN 151 THR 111 ASP 295 GLN 110 of protein.
+
+*
 
 ---
 
