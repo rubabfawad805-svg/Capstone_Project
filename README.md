@@ -144,10 +144,10 @@ The objective is to identify **potential drug candidates based on both binding a
 | **Caffeine** | 2519 | Yes; 0 violation | -6.0 | Moderate (Excellent BBB access) | **Approved** |
 | **Naproxen** | 156391 | Yes; 0 violation | -5.5 | Moderate (Stable profile) | **Approved** |
 | **Ibuprofen** | 3672 | Yes; 0 violation | -5.6 | Moderate (High skin sensitization) | **Approved** |
-| **Artemether** | 68911 | Yes; 0 violation | -6.3 | Low (Dangerously high skin risk) | **Not Approved** |
-| **Lumefantrine** | 6437380 | No; 2 violations | -6.1 | Low (High skin risk/Poor absorption) | **Not Approved** |
-| **Aspirin** | 2244 | Yes; 0 violation | -4.8 | Low (High eye corrosion risk) | **Not Approved** |
-| **Theophylline** | 2153 | Yes; 0 violation | -4.7 | Low (High drug interaction risk) | **Not Approved** |
+| **Artemether** | 68911 | Yes; 0 violation | -6.3 | Low (Dangerously high skin risk) 🚩 | **Not Approved** |
+| **Lumefantrine** | 6437380 | No; 2 violations | -6.1 | Low (High skin risk/Poor absorption) 🚩| **Not Approved** |
+| **Aspirin** | 2244 | Yes; 0 violation | -4.8 | Low (High eye corrosion risk) 🚩| **Not Approved** |
+| **Theophylline** | 2153 | Yes; 0 violation | -4.7 | Low (High drug interaction risk)🚩 | **Not Approved** |
 
 ***
 
