@@ -201,10 +201,9 @@ Capstone-CADD-Project/
 📄 Full Report: report.pdf
 ---
 
-## 🔬 Conclusion
-This study demonstrates that **integrating docking with pharmacokinetic and drug-likeness analysis provides a more reliable framework for candidate selection**.
+## Conclusion
 
-Among all compounds, **Metformin stands out as the most promising candidate**, balancing strong binding affinity with favorable drug-like properties.
+Metformin emerged as the most promising candidate due to its strong binding affinity and stable interactions with key active site residues. This study demonstrates the importance of integrating docking, drug-likeness, and ADMET analysis for reliable candidate selection.
 
 ---
 
