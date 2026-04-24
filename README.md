@@ -8,8 +8,7 @@ This project is my first step toward combining chemistry + computation + AI in d
 ## 🔬 Key Interaction
   
 <p align="center">
-   <img width="1536" height="1024" alt="metformin1" src="https://github.com/user-attachments/assets/381f815b-8a8b-4026-946e-e124169071c5" />
-
+   <img width="1536" height="1024" alt="metformin2" src="https://github.com/user-attachments/assets/bcae0a8a-fbb3-4c9f-b4a5-1c4c7f49c90a" />
 </p>
 
 
@@ -188,7 +187,7 @@ Capstone-CADD-Project/
 ├── results/
 ├── figures/
 
----
+
 
 
 ---
