@@ -3,7 +3,7 @@ This project is my first step toward combining chemistry, computation, and AI in
 
 ---
 # 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
-Protein 7SFB, also known as Main Protease, is an essential constructive part of the COVID-19 virus without which the virus is rendered from replication. This protein is the master key to the virus's survival.
+Protein 7SFB, also known as Main Protease, is an essential constructive part of the COVID-19 virus without which the virus is rendered replication-incompetent. This protein is the master key to the virus's survival.
 
 ## 🏆 Key Finding
 **Metformin exhibited the highest binding affinity (-6.7 kcal/mol), driven by strong hydrogen bonding with active site residues.**
@@ -144,10 +144,10 @@ The objective is to identify **potential drug candidates based on both binding a
 | **Caffeine** | 2519 | Yes; 0 violation | -6.0 | Moderate (Excellent BBB access) | **Approved** |
 | **Naproxen** | 156391 | Yes; 0 violation | -5.5 | Moderate (Stable profile) | **Approved** |
 | **Ibuprofen** | 3672 | Yes; 0 violation | -5.6 | Moderate (High skin sensitization) | **Approved** |
-| **Artemether** | 68911 | Yes; 0 violation | -6.3 | Low (Dangerously high skin risk) 🚩 | **Not Approved** |
-| **Lumefantrine** | 6437380 | No; 2 violations | -6.1 | Low (High skin risk/Poor absorption) 🚩| **Not Approved** |
-| **Aspirin** | 2244 | Yes; 0 violation | -4.8 | Low (High eye corrosion risk) 🚩| **Not Approved** |
-| **Theophylline** | 2153 | Yes; 0 violation | -4.7 | Low (High drug interaction risk)🚩 | **Not Approved** |
+| **Artemether** | 68911 | Yes; 0 violation | -6.3 | Low 🚩(Dangerously high skin risk) | **Not Approved** |
+| **Lumefantrine** | 6437380 | No; 2 violations 🚫| -6.1 | Low 🚩(High skin risk/Poor absorption)| **Not Approved** |
+| **Aspirin** | 2244 | Yes; 0 violation | -4.8 | Low 🚩(High eye corrosion risk)| **Not Approved** |
+| **Theophylline** | 2153 | Yes; 0 violation | -4.7 | Low 🚩(High drug interaction risk) | **Not Approved** |
 
 ***
 
