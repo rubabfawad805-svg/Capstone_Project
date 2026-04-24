@@ -103,14 +103,14 @@ The objective is to identify **potential drug candidates based on both binding a
 
 <img width="471" height="667" alt="image" src="https://github.com/user-attachments/assets/869b1348-1f66-40b6-b4ed-ecd5ec45b806" />
 
-*Metformin shows a strong interaction within the active site of 7SFB.Figure shows the bonding of the ligand with the amino acids, showing the interactions of Metformin to the amino acids ASN151, THR111, ASP295, GLN110 of protein.*
+*Metformin shows a strong interaction within the active site of 7SFB. The figure shows the bonding of the ligand with the amino acids, showing the interactions of Metformin to the amino acids ASN151, THR111, ASP295, and GLN110 of the protein.*
 
 <img width="906" height="476" alt="image" src="https://github.com/user-attachments/assets/83313845-5807-4b07-bc89-b1886560df29" />
 
 - Metformin forms multiple hydrogen bonds with ASN A:151 and THR A:111
 - ASP A:295 contributes to electrostatic stabilization
 - Polar interactions enhance binding affinity
-- Minor unfavorable donor interaction observed but does not significantly affect stability
+- Minor unfavorable donor interaction observed, but it does not significantly affect stability
 ---
 
 ### 🔹 Binding Site Identification
@@ -215,7 +215,7 @@ Capstone-CADD-Project/
 
 ## Conclusion
 
-Metformin emerged as the most promising candidate due to its strong binding affinity and stable interactions with key active site residues. This study demonstrates the importance of integrating docking, drug-likeness, and ADMET analysis for reliable candidate selection.
+Metformin emerged as the most promising candidate due to its strong binding affinity and stable interactions with key residues at the active site. This study demonstrates the importance of integrating docking, drug-likeness, and ADMET analysis for reliable candidate selection.
 
 ---
 
