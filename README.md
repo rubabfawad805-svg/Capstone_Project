@@ -198,10 +198,7 @@ Capstone-CADD-Project/
 
 ---
 
-## 📄 Detailed Report
-A complete scientific report including methodology, results, and discussion is available:
-report.pdf
-
+📄 Full Report: report.pdf
 ---
 
 ## 🔬 Conclusion
