@@ -1,7 +1,8 @@
 # Capstone_Project
-This project is my first step toward combining chemistry + computation + AI in drug discovery, and I’m excited to keep building in this direction.  #ComputationalChemistry #DrugDiscovery #CADD #Bioinformatics #MolecularDocking #ADMET #ChemistryStudents #AIinScience #OpenScience
-# 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
+This project is my first step toward combining chemistry, computation, and AI in drug discovery, and I’m excited to keep building in this direction.  #ComputationalChemistry #DrugDiscovery #CADD #Bioinformatics #MolecularDocking #ADMET #ChemistryStudents #AIinScience #OpenScience
 
+---
+# 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
 
 
 ## 🏆 Key Finding
@@ -13,12 +14,16 @@ This project is my first step toward combining chemistry + computation + AI in d
 
 </p>
 
-
 ## 🔬 Binding Interaction Insights
 
-- Metformin forms multiple hydrogen bonds with ASN A:151 and THR A:111  
-- ASP A:295 contributes to electrostatic stabilization  
-- Polar interactions significantly enhance binding affinity
+Metformin exhibits strong binding within the active site through multiple hydrogen bonds and polar interactions:
+
+- Hydrogen bonding with ASN A:151 and THR A:111 stabilizes ligand positioning  
+- ASP A:295 contributes to the electrostatic interaction  
+- Polar functional groups enhance binding affinity  
+- A minor unfavorable donor interaction is observed, but does not significantly impact overall stability  
+
+These interactions explain the superior docking score observed for Metformin.
 
   
 ----- 
