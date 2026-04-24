@@ -5,6 +5,16 @@ This project is my first step toward combining chemistry + computation + AI in d
 ## 🏆 Highlight
 **Metformin demonstrated the strongest binding affinity (−6.7 kcal/mol), emerging as the most promising candidate among all evaluated ligands.**
 
+## 🔬 Key Interaction
+
+<p align="center">
+  <## 🔬 Key Interaction
+    
+<p align="center">
+  <img src="figures/docking/metformin_hero.png" width="700"/>
+</p>>
+
+ 
 ----- 
 
 ## 📌 Project Overview
