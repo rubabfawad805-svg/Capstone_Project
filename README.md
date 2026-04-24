@@ -2,9 +2,10 @@
 This project is my first step toward combining chemistry + computation + AI in drug discovery, and I’m excited to keep building in this direction.  #ComputationalChemistry #DrugDiscovery #CADD #Bioinformatics #MolecularDocking #ADMET #ChemistryStudents #AIinScience #OpenScience
 # 🧬 In Silico Drug Discovery Analysis of Ligands Against 7SFB
 
-## 🏆 Highlight
-**Metformin demonstrated the strongest binding affinity (−6.7 kcal/mol), emerging as the most promising candidate among all evaluated ligands.**
+# 🧬 In Silico Drug Discovery Against 7SFB
 
+## 🏆 Key Result
+**Metformin showed the highest binding affinity (-6.7 kcal/mol), supported by strong hydrogen bonding with key active site residues.**
 ## 🔬 Key Interaction
   
 <p align="center">
