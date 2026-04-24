@@ -29,7 +29,7 @@ These interactions explain the superior docking score observed for Metformin.
 ----- 
 
 ## 📌 Project Overview
-This project implements a **complete computational drug discovery pipeline** to evaluate ligand–protein interactions against the target protein **7SFB**.
+This project aims to implement a **complete computational drug discovery pipeline** to evaluate ligand–protein interactions against the target protein **7SFB**.
 
 The workflow integrates:
 - Drug-likeness screening  
