@@ -197,7 +197,7 @@ Capstone-CADD-Project/
 | Ligand Preparation | Format conversion & optimization | PubChem, Open Babel |
 | Drug-Likeness | Lipinski Rule evaluation | SwissADME |
 | ADMET Prediction | Pharmacokinetic profiling | ADMETlab |
-| Binding Site | Active pocket identification | CASTp / PrankWeb |
+| Binding Site | Active pocket identification | DoGSiteScorer |
 | Docking | Binding affinity calculation | PyRx (AutoDock Vina) |
 | Visualization | Interaction analysis | PyMOL |
 | Structure Validation | Predicted vs experimental comparison | AlphaFold |
