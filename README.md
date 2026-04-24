@@ -11,7 +11,13 @@ This project is my first step toward combining chemistry + computation + AI in d
    <img width="1536" height="1024" alt="metformin2" src="https://github.com/user-attachments/assets/bcae0a8a-fbb3-4c9f-b4a5-1c4c7f49c90a" />
 </p>
 
+## 🔬 Binding Interaction Insights
 
+- Metformin forms multiple hydrogen bonds with ASN A:151 and THR A:111  
+- ASP A:295 contributes to electrostatic stabilization  
+- Polar interactions significantly enhance binding affinity
+
+  
 ----- 
 
 ## 📌 Project Overview
