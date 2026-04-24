@@ -74,21 +74,21 @@ The objective is to identify **potential drug candidates based on both binding a
 
 
 ---
-## 📊 Docking Results
 
-| Rank | Ligand | Binding Energy (kcal/mol) |
-|------|--------|--------------------------|
-| 🥇 | **Metformin** | **-6.7** |
-| 🥈 | Diclofenac | -6.5 |
-| 🥉 | Artemether | -6.3 |
-| 4 | Lumefantrine | -6.1 |
-| 5 | Caffeine | -6.0 |
-| 6 | Ibuprofen | -5.6 |
-| 7 | Naproxen | -5.5 |
-| 8 | Acetaminophen | -5.3 |
-| 9 | Aspirin | -4.8 |
-| 10 | Theophylline | -4.7 |
+## Docking Results
 
+| Ligand | Binding Energy (kcal/mol) |
+|--------|--------------------------|
+| 🟢 Metformin | -6.7 |
+| Diclofenac | -6.5 |
+| Artemether | -6.3 |
+| Lumefantrine | -6.1 |
+| Caffeine | -6.0 |
+| Ibuprofen | -5.6 |
+| Naproxen | -5.5 |
+| Acetaminophen | -5.3 |
+| Aspirin | -4.8 |
+| Theophylline | -4.7 |
 
 ---
 
